@@ -1,5 +1,10 @@
 #include "main.h"
 
+
+/**
+ * print all hours of a day
+ */
+
 void jack_bauer(void)
 {
 	int h, m;

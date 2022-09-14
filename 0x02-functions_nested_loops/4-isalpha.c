@@ -1,5 +1,10 @@
 #include "main.h"
 
+
+/**
+ * checks if character is a number
+ */
+
 int _isalpha(int c)
 {
 	if (c >= 'a' && c <= 'z')

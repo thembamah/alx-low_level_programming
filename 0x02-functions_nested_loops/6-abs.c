@@ -1,5 +1,9 @@
 #include "main.h"
 
+/**
+ * return number without sign
+ */
+
 int _abs(int n)
 {
 
