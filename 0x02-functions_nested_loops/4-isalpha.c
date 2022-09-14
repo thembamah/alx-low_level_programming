@@ -2,7 +2,9 @@
 
 
 /**
- * checks if character is a number
+ * print_alphabet - Entry point
+ * Description:  checks if character is a number
+ * Return: int
  */
 
 int _isalpha(int c)

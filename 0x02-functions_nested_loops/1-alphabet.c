@@ -1,8 +1,12 @@
 #include "main.h"
 
+
 /**
- * prints lower case alpabet
+ * print_alphabet - Entry point
+ * Description: prints lower case alpabet
+ * Return: void
  */
+
 
 void print_alphabet(void)
 {

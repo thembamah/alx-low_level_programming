@@ -2,8 +2,11 @@
 
 
 /**
- * add numbers
+ * print_alphabet - Entry point
+ * Description: add numbers
+ * Return: int
  */
+
 
 
 int add(int num1, int num2)

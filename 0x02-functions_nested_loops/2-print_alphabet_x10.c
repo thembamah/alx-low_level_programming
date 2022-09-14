@@ -1,7 +1,10 @@
 #include "main.h"
 
+
 /**
- * prints lower case alpabet 10 times
+ * print_alphabet - Entry point
+ * Description: prints lower case alpabet 10 times
+ * Return: void
  */
 
 void print_alphabet_x10(void)

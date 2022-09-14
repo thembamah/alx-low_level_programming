@@ -2,7 +2,9 @@
 
 
 /**
- * print last digit of a number
+ * print_alphabet - Entry point
+ * Description: print last digit of a number
+ * Return: int
  */
 
 

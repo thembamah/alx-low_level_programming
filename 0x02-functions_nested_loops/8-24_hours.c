@@ -2,8 +2,11 @@
 
 
 /**
- * print all hours of a day
+ * print_alphabet - Entry point
+ * Description: print all hours of a day
+ * Return: int
  */
+
 
 void jack_bauer(void)
 {

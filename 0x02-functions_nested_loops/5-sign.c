@@ -1,9 +1,11 @@
 #include "main.h"
 
-
 /**
- * print sign of a number
+ * print_alphabet - Entry point
+ * Description: print sign of a number
+ * Return: int
  */
+
 
 int print_sign(int n)
 {

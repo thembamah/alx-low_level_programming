@@ -1,8 +1,12 @@
 #include "main.h"
 
+
 /**
- * checks if character is lower case
+ * print_alphabet - Entry point
+ * Description: checks if character is lower case
+ * Return: int
  */
+
 
 int _islower(int c)
 {

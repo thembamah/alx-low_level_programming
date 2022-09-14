@@ -1,7 +1,10 @@
 #include "main.h"
 
+
 /**
- * print times table
+ * print_alphabet - Entry point
+ * Description: print times table
+ * Return: int
  */
 
 void times_table(void)

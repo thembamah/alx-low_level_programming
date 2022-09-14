@@ -1,8 +1,11 @@
 #include "main.h"
 
 /**
- * return number without sign
+ * print_alphabet - Entry point
+ * Description: return number without sign
+ * Return: int
  */
+
 
 int _abs(int n)
 {

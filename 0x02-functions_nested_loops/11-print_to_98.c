@@ -1,8 +1,11 @@
 #include "main.h"
 #include <stdio.h>
 
+
 /**
- * print to 98
+ * print_alphabet - Entry point
+ * Description: print to 98
+ * Return: int
  */
 
 
